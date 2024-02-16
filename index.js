@@ -1,12 +1,12 @@
 // App.js
 
 import React, { useState } from 'react';
-import Header from './components/Header';
-import AboutMe from './components/AboutMe';
-import Portfolio from './components/Portfolio';
-import Contact from './components/Contact';
-import Resume from './components/Resume';
-import Footer from './components/Footer';
+import Header from './src/components/Header';
+import AboutMe from './src/components/AboutMe';
+import Portfolio from './src/components/Portfolio';
+import Contact from './src/components/Contact';
+import Resume from './src/components/Resume';
+import Footer from './src/components/Footer';
 import './App.css';
 
 function App() {
