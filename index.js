@@ -25,7 +25,7 @@ function App() {
       {currentSection === 'Contact' && <Contact />}
       {currentSection === 'Resume' && <Resume />}
 
-      <Footer />
+      <Header />
     </div>
   );
 }

@@ -5,7 +5,7 @@ const About = () => {
   return (
     <section id="about">
       <h2>About Me</h2>
-      <div className="about-content">
+      <div className="AboutMe">
         <div className="avatar-container">
           {/* Include your avatar or photo here */}
           <img src="your-avatar-image-url" alt="Your Avatar" />
