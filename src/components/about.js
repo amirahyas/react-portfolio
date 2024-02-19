@@ -7,12 +7,12 @@ const About = () => {
       <h2>About Me</h2>
       <div className="AboutMe">
         <div className="avatar-container">
-          {/* Include your avatar or photo here */}
-          <img src="your-avatar-image-url" alt="Your Avatar" />
+          
+          <img src="avatar.png" alt= "Avatar" />
         </div>
         <div className="bio">
           <p>
-            Hello! I'm [Your Name], a passionate web developer with experience in building
+            Hello! I'm Amirah Bullock, a passionate web developer with experience in building
             modern web applications.
           </p>
           <p>
